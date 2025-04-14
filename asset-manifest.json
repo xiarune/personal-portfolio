@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/personal-portfolio/static/js/main.6375f7fe.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.6375f7fe.chunk.js.map",
+    "main.js": "/personal-portfolio/static/js/main.4d545749.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.4d545749.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.b50c5e76.js",
     "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.b50c5e76.js.map",
-    "static/js/2.dc751ca8.chunk.js": "/personal-portfolio/static/js/2.dc751ca8.chunk.js",
-    "static/js/2.dc751ca8.chunk.js.map": "/personal-portfolio/static/js/2.dc751ca8.chunk.js.map",
+    "static/js/2.bfb67def.chunk.js": "/personal-portfolio/static/js/2.bfb67def.chunk.js",
+    "static/js/2.bfb67def.chunk.js.map": "/personal-portfolio/static/js/2.bfb67def.chunk.js.map",
     "index.html": "/personal-portfolio/index.html",
-    "precache-manifest.8b1ad7a5abecef9befdc680ec0d73520.js": "/personal-portfolio/precache-manifest.8b1ad7a5abecef9befdc680ec0d73520.js",
+    "precache-manifest.66ad136dd7b419fb1a0117293989da43.js": "/personal-portfolio/precache-manifest.66ad136dd7b419fb1a0117293989da43.js",
     "service-worker.js": "/personal-portfolio/service-worker.js",
-    "static/js/2.dc751ca8.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.dc751ca8.chunk.js.LICENSE.txt",
+    "static/js/2.bfb67def.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.bfb67def.chunk.js.LICENSE.txt",
     "static/media/animation.png": "/personal-portfolio/static/media/animation.f68c0ff0.png",
     "static/media/background-about.jpg": "/personal-portfolio/static/media/background-about.816e82ed.jpg",
     "static/media/background-contacts.jpg": "/personal-portfolio/static/media/background-contacts.ba8fe49c.jpg",
-    "static/media/background-home.jpg": "/personal-portfolio/static/media/background-home.ba2b9a00.jpg",
+    "static/media/background-home-2.jpg": "/personal-portfolio/static/media/background-home-2.3393eb77.jpg",
     "static/media/background-projects.jpg": "/personal-portfolio/static/media/background-projects.63e4963b.jpg",
     "static/media/film.png": "/personal-portfolio/static/media/film.c8baf51a.png",
     "static/media/literature.png": "/personal-portfolio/static/media/literature.f9c0579a.png",
@@ -23,7 +23,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b50c5e76.js",
-    "static/js/2.dc751ca8.chunk.js",
-    "static/js/main.6375f7fe.chunk.js"
+    "static/js/2.bfb67def.chunk.js",
+    "static/js/main.4d545749.chunk.js"
   ]
 }
