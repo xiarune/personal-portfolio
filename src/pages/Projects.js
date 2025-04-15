@@ -121,7 +121,7 @@ export default function Projects() {
     {
       title: 'Film Showcase',
       description: 'Short and feature length films.',
-      link: 'https://cecboo2.wixsite.com/clarkstudio-films',
+      link: 'https://xiarune.github.io/clark-studio-films/',
       image: filmImg,
     },
     {
