@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12d7cfa18c97124d4df1fee7c02ec125",
+    "revision": "faab5492753470402eeba1d376a72bb6",
     "url": "/personal-portfolio/index.html"
   },
   {
@@ -12,12 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-portfolio/static/js/2.bfb67def.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3017f45a5dfc9a203ac",
-    "url": "/personal-portfolio/static/js/main.eba7d003.chunk.js"
+    "revision": "a62ca89da04d50b61737",
+    "url": "/personal-portfolio/static/js/main.3bdb5f9d.chunk.js"
   },
   {
     "revision": "119b80b755d53bc48b41",
     "url": "/personal-portfolio/static/js/runtime-main.b50c5e76.js"
+  },
+  {
+    "revision": "8392dc3a2fdd22aea899fc0e831e4377",
+    "url": "/personal-portfolio/static/media/Sable.8392dc3a.jpg"
   },
   {
     "revision": "f68c0ff0eea7d24c370a777e23e18980",
@@ -52,11 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-portfolio/static/media/nova.4f9884d1.png"
   },
   {
-    "revision": "d5062010114a3b550cfcfbaa3929f1fe",
-    "url": "/personal-portfolio/static/media/portfolio.d5062010.png"
-  },
-  {
-    "revision": "1490e07379f456a5e9f21a85a5060f6b",
-    "url": "/personal-portfolio/static/media/quiz-app.1490e073.png"
+    "revision": "b535d9e5d60b66c0d6f768ad0e360383",
+    "url": "/personal-portfolio/static/media/portfoliohelper.b535d9e5.png"
   }
 ]);
