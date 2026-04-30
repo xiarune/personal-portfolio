@@ -4,12 +4,12 @@ import styled from 'styled-components';
 import backgroundProjects from '../assets/images/background-projects.jpg';
 
 // Project images
-import quizImg from '../assets/images/projects/quiz-app.png';
+import portfolioHelperImg from '../assets/images/projects/portfoliohelper.png';
 import filmImg from '../assets/images/projects/film.png'; //
 import animImg from '../assets/images/projects/animation.png'; //
 import novaImg from '../assets/images/projects/nova.png'; //
 import litImg from '../assets/images/projects/literature.png'; //
-import portImg from '../assets/images/projects/portfolio.png';
+import sableImg from '../assets/images/projects/Sable.jpg';
 
 const Wrapper = styled.section`
   background-image: url(${backgroundProjects});
@@ -108,15 +108,16 @@ const ProjectImage = styled.img`
 export default function Projects() {
   const projectData = [
     {
-      title: 'Portfolio Website',
-      description: 'A personal site to showcase my work and background.',
-      image: portImg,
+      title: 'Sable',
+      description: 'A full-stack audio immersive reading and writing platform.',
+      link: 'https://sable-two.vercel.app',
+      image: sableImg,
     },
     {
-      title: 'Interactive Quiz App',
-      description: 'Built in React Native with multiple question types.',
-      link: 'https://github.com/xiarune/quiz-app.git',
-      image: quizImg,
+      title: 'Portfolio Helper',
+      description: 'A full-stack web app that helps users generate and refine portfolio content using AI. Built with React, Node.js, Express, and an AI API.',
+      link: 'https://portfolio-helper1.vercel.app',
+      image: portfolioHelperImg,
     },
     {
       title: 'Film Showcase',
@@ -148,7 +149,7 @@ export default function Projects() {
     <Wrapper>
       <Overlay />
       <Content>
-        <Title>My Projects</Title>
+        <Title>Caroline Clark</Title>
         <Description>Here are some of the things I’ve built recently.</Description>
         <Grid>
           {projectData.map((project, index) => {
