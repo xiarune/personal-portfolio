@@ -13,12 +13,10 @@ const Nav = styled.nav`
   ${({ $scrolled }) =>
     $scrolled
       ? `
-    top: 50%;
+    top: 0;
     left: 0;
-    transform: translateY(-50%);
     width: auto;
-    height: auto;
-    border-radius: 0 10px 10px 0;
+    height: 100vh;
     box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
   `
       : `
@@ -40,6 +38,8 @@ const NavInner = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    height: 100%;
   `
       : `
     width: 100%;
@@ -119,7 +119,7 @@ export default function Navbar() {
   return (
     <Nav $scrolled={scrolled}>
       <NavInner $scrolled={scrolled}>
-        <LogoLink to="/" $scrolled={scrolled}>My Portfolio</LogoLink>
+        <LogoLink to="/" $scrolled={scrolled}>Caroline Clark</LogoLink>
         <NavLinks $scrolled={scrolled}>
           <StyledLink to="/" $scrolled={scrolled}>Home</StyledLink>
           <StyledLink to="/about" $scrolled={scrolled}>About</StyledLink>

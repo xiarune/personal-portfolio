@@ -48,7 +48,7 @@ export default function Home() {
     <HomeWrapper>
       <Overlay />
       <Content>
-        <Title>Welcome to My Portfolio</Title>
+        <Title>Caroline Clark</Title>
         <Paragraph>
           I’m Caroline — a digital creative blending logic, storytelling, and code.
           Explore my work, learn more about me, or get in touch.
