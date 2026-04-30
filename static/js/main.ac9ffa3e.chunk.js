@@ -28,7 +28,7 @@
   font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.6;
-`;function h(){return r.a.createElement(p,null,r.a.createElement(u,null),r.a.createElement(f,null,r.a.createElement(g,null,"Welcome to My Portfolio"),r.a.createElement(b,null,"I\u2019m Caroline \u2014 a digital creative blending logic, storytelling, and code. Explore my work, learn more about me, or get in touch.")))}var x=n(14),E=n.n(x);const v=c.a.section`
+`;function h(){return r.a.createElement(p,null,r.a.createElement(u,null),r.a.createElement(f,null,r.a.createElement(g,null,"Caroline Clark"),r.a.createElement(b,null,"I\u2019m Caroline \u2014 a digital creative blending logic, storytelling, and code. Explore my work, learn more about me, or get in touch.")))}var x=n(14),E=n.n(x);const v=c.a.section`
   background-image: url(${E.a});
   background-size: cover;
   background-position: center;
@@ -64,7 +64,7 @@
   font-size: 1.1rem;
   line-height: 1.6;
   font-weight: 400;
-`;function j(){return r.a.createElement(v,null,r.a.createElement(w,null),r.a.createElement(y,null,r.a.createElement(k,null,"About Me"),r.a.createElement(z,null,"I'm a multidisciplinary designer and developer ",r.a.createElement("br",null),"with a passion for creating thoughtful, aesthetic, ",r.a.createElement("br",null),"and impactful digital experiences. My work blends design, ",r.a.createElement("br",null),"storytelling, and technology to build things that resonate ",r.a.createElement("br",null),"deeply and look good doing it.")))}var $=n(15),I=n.n($),S=n(16),P=n.n(S),A=n(17),C=n.n(A),O=n(18),Y=n.n(O),M=n(19),F=n.n(M),D=n(20),J=n.n(D),L=n(21),N=n.n(L);const H=c.a.section`
+`;function j(){return r.a.createElement(v,null,r.a.createElement(w,null),r.a.createElement(y,null,r.a.createElement(k,null,"About Me"),r.a.createElement(z,null,"I'm a multidisciplinary designer and developer ",r.a.createElement("br",null),"with a passion for creating thoughtful, aesthetic, ",r.a.createElement("br",null),"and impactful digital experiences. My work blends design, ",r.a.createElement("br",null),"storytelling, and technology to build things that resonate ",r.a.createElement("br",null),"deeply and look good doing it.")))}var $=n(15),I=n.n($),S=n(16),C=n.n(S),P=n(17),A=n.n(P),O=n(18),Y=n.n(O),F=n(19),D=n.n(F),J=n(20),L=n.n(J),M=n(21),N=n.n(M);const H=c.a.section`
   background-image: url(${I.a});
   background-size: cover;
   background-position: center;
@@ -75,22 +75,22 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-`,W=c.a.div`
+`,q=c.a.div`
   position: absolute;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 1;
-`,q=c.a.div`
+`,U=c.a.div`
   position: relative;
   z-index: 2;
   width: 100%;
-`,U=c.a.h1`
+`,V=c.a.h1`
   font-family: 'Poppins', sans-serif;
   color: white;
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
   text-align: center;
-`,V=c.a.p`
+`,W=c.a.p`
   font-family: 'Inter', sans-serif;
   color: #eee;
   font-size: 1.1rem;
@@ -136,7 +136,7 @@
   height: auto;
   object-fit: contain;
   align-self: center;
-`;function T(){const e=[{title:"Sable",description:"A full-stack audio immersive reading and writing platform.",link:"https://sable-two.vercel.app",image:N.a},{title:"Portfolio Helper",description:"A full-stack web app that helps users generate and refine portfolio content using AI. Built with React, Node.js, Express, and an AI API.",link:"https://portfolio-helper1.vercel.app",image:P.a},{title:"Film Showcase",description:"Short and feature length films.",link:"https://xiarune.github.io/clark-studio-films/",image:C.a},{title:"Animation",description:"Animations ranging from stop motion to 2D.",link:"https://youtu.be/yKsEm43xkSY?si=ebJelJzVLHPlP1OJ",image:Y.a},{title:"UI Design with Figma: NOVA",description:"Custom-built Figma prototype for a mobile application.",link:"https://www.figma.com/proto/pvEbgihg6WgiIZUZietXkV/Nova?node-id=77-146&t=fGSTFnieci0WZUDY-1",image:F.a},{title:"Literature",description:"Lore-based driven storytelling with poetic prose.",link:"https://xiarune.github.io/finding-celestia/",image:J.a}];return r.a.createElement(H,null,r.a.createElement(W,null),r.a.createElement(q,null,r.a.createElement(U,null,"Caroline Clark"),r.a.createElement(V,null,"Here are some of the things I\u2019ve built recently."),r.a.createElement(Z,null,e.map((e,t)=>{var n;const a=null===(n=e.link)||void 0===n?void 0:n.startsWith("http"),i=r.a.createElement(G,null,r.a.createElement(R,null,e.title),r.a.createElement(_,null,e.description),e.image&&r.a.createElement(K,{src:e.image,alt:e.title}));return e.link?r.a.createElement(B,{key:t,href:e.link,target:a?"_blank":"_self",rel:a?"noopener noreferrer":void 0},i):r.a.createElement("div",{key:t},i)}))))}var X=n(22),Q=n.n(X);const ee=c.a.section`
+`;function T(){const e=[{title:"Sable",description:"A full-stack audio immersive reading and writing platform.",link:"https://sable-two.vercel.app",image:N.a},{title:"Portfolio Helper",description:"A full-stack web app that helps users generate and refine portfolio content using AI. Built with React, Node.js, Express, and an AI API.",link:"https://portfolio-helper1.vercel.app",image:C.a},{title:"Film Showcase",description:"Short and feature length films.",link:"https://xiarune.github.io/clark-studio-films/",image:A.a},{title:"Animation",description:"Animations ranging from stop motion to 2D.",link:"https://youtu.be/yKsEm43xkSY?si=ebJelJzVLHPlP1OJ",image:Y.a},{title:"UI Design with Figma: NOVA",description:"Custom-built Figma prototype for a mobile application.",link:"https://www.figma.com/proto/pvEbgihg6WgiIZUZietXkV/Nova?node-id=77-146&t=fGSTFnieci0WZUDY-1",image:D.a},{title:"Literature",description:"Lore-based driven storytelling with poetic prose.",link:"https://xiarune.github.io/finding-celestia/",image:L.a}];return r.a.createElement(H,null,r.a.createElement(q,null),r.a.createElement(U,null,r.a.createElement(V,null,"Caroline Clark"),r.a.createElement(W,null,"Here are some of the things I\u2019ve built recently."),r.a.createElement(Z,null,e.map((e,t)=>{var n;const a=null===(n=e.link)||void 0===n?void 0:n.startsWith("http"),i=r.a.createElement(G,null,r.a.createElement(R,null,e.title),r.a.createElement(_,null,e.description),e.image&&r.a.createElement(K,{src:e.image,alt:e.title}));return e.link?r.a.createElement(B,{key:t,href:e.link,target:a?"_blank":"_self",rel:a?"noopener noreferrer":void 0},i):r.a.createElement("div",{key:t},i)}))))}var X=n(22),Q=n.n(X);const ee=c.a.section`
   background-image: url(${Q.a});
   background-size: cover;
   background-position: center;
@@ -229,11 +229,11 @@
   z-index: 1000;
   transition: all 0.3s ease;
 
-  ${e=>{let{$scrolled:t}=e;return t?"\n    top: 50%;\n    left: 0;\n    transform: translateY(-50%);\n    width: auto;\n    height: auto;\n    border-radius: 0 10px 10px 0;\n    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);\n  ":"\n    top: 0;\n    left: 0;\n    width: 100%;\n    display: flex;\n    justify-content: center;\n  "}}
+  ${e=>{let{$scrolled:t}=e;return t?"\n    top: 0;\n    left: 0;\n    width: auto;\n    height: 100vh;\n    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);\n  ":"\n    top: 0;\n    left: 0;\n    width: 100%;\n    display: flex;\n    justify-content: center;\n  "}}
 `,pe=c.a.div`
   transition: all 0.3s ease;
 
-  ${e=>{let{$scrolled:t}=e;return t?"\n    padding: 1.5rem 1rem;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  ":"\n    width: 100%;\n    max-width: 1200px;\n    padding: 1rem 2rem;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  "}}
+  ${e=>{let{$scrolled:t}=e;return t?"\n    padding: 1.5rem 1rem;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    height: 100%;\n  ":"\n    width: 100%;\n    max-width: 1200px;\n    padding: 1rem 2rem;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  "}}
 `,ue=Object(c.a)(l.b)`
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
@@ -266,11 +266,11 @@
     font-weight: 700;
     color: #000;
   }
-`;function be(){const[e,t]=Object(a.useState)(!1);return Object(a.useEffect)(()=>{const e=()=>{t(window.scrollY>100)};return window.addEventListener("scroll",e),()=>window.removeEventListener("scroll",e)},[]),r.a.createElement(de,{$scrolled:e},r.a.createElement(pe,{$scrolled:e},r.a.createElement(ue,{to:"/",$scrolled:e},"My Portfolio"),r.a.createElement(fe,{$scrolled:e},r.a.createElement(ge,{to:"/",$scrolled:e},"Home"),r.a.createElement(ge,{to:"/about",$scrolled:e},"About"),r.a.createElement(ge,{to:"/projects",$scrolled:e},"Projects"),r.a.createElement(ge,{to:"/contact",$scrolled:e},"Contact"))))}const he=c.a.footer`
+`;function be(){const[e,t]=Object(a.useState)(!1);return Object(a.useEffect)(()=>{const e=()=>{t(window.scrollY>100)};return window.addEventListener("scroll",e),()=>window.removeEventListener("scroll",e)},[]),r.a.createElement(de,{$scrolled:e},r.a.createElement(pe,{$scrolled:e},r.a.createElement(ue,{to:"/",$scrolled:e},"Caroline Clark"),r.a.createElement(fe,{$scrolled:e},r.a.createElement(ge,{to:"/",$scrolled:e},"Home"),r.a.createElement(ge,{to:"/about",$scrolled:e},"About"),r.a.createElement(ge,{to:"/projects",$scrolled:e},"Projects"),r.a.createElement(ge,{to:"/contact",$scrolled:e},"Contact"))))}const he=c.a.footer`
   background: #111;
   color: #ccc;
   text-align: center;
   padding: 1rem;
   font-size: 0.9rem;
 `;function xe(){return r.a.createElement(he,null,"\xa9 ",(new Date).getFullYear()," Caroline Clark. All rights reserved.")}var Ee=function(){return r.a.createElement(l.a,null,r.a.createElement("div",{className:"app-wrapper"},r.a.createElement(be,null),r.a.createElement("main",{style:{flexGrow:1}},r.a.createElement(s.c,null,r.a.createElement(s.a,{path:"/",element:r.a.createElement(h,null)}),r.a.createElement(s.a,{path:"/about",element:r.a.createElement(j,null)}),r.a.createElement(s.a,{path:"/projects",element:r.a.createElement(T,null)}),r.a.createElement(s.a,{path:"/contact",element:r.a.createElement(me,null)}))),r.a.createElement(xe,null)))};o.a.createRoot(document.getElementById("root")).render(r.a.createElement(Ee,null))}],[[24,1,2]]]);
-//# sourceMappingURL=main.3bdb5f9d.chunk.js.map
+//# sourceMappingURL=main.ac9ffa3e.chunk.js.map
